@@ -5,8 +5,8 @@ ngs": [
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/fducau/embeddings_projector/master/node2vec/9M/p1q0-5/w2v_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/fducau/embeddings_projector/master/node2vec/9M/p1q0-5/w2v_tokens.tsv"
     }
   ]
 }
