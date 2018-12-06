@@ -1,12 +1,13 @@
-ngs": [
+{
+  "embeddings": [
     {
       "tensorName": "My tensor",
       "tensorShape": [
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://gist.githubusercontent.com/fducau/65749a4169b266b5b8e2588808e69c8d/raw/8c004cf3a48b7904d5fe1949a5a699fb04abc594/w2v_vecs.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/fducau/65149fbd263ed149e545c40531052cdc/raw/d6b2623d0b909523a7086765d35b6e69f5c9ce3e/w2v_tokens.tsv"
     }
   ]
 }
