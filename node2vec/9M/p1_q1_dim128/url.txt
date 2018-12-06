@@ -1,0 +1,1 @@
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/fducau/embeddings_projector/master/node2vec/9M/p1_q1_dim128/config1.json
