@@ -7,7 +7,7 @@
         50
       ],
       "tensorPath": "https://gist.githubusercontent.com/fducau/9a76c72274e3869a99b82a97c6ca549d/raw/f1deee508e5d2192fe2542de19b757e8ee942b5f/n2v_vecs_p2_q0_5_dim128_9M.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/fducau/a39637f89c033d657b8bf8adf3b9d0a6/raw/12f3d398a357c552eee9582ad5449068e158862e/n2v_tokens_train_9M.tsv"
+      "metadataPath": "https://gist.githubusercontent.com/fducau/fd3bb1ea2b6844728be670c1cca1ec30/raw/38445aa70673a74117971b4cebf8e0468739d1a4/token_list_emb_p2_q0_5_dim128.tsv"
     }
   ]
 }
